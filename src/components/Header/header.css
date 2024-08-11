@@ -1,0 +1,42 @@
+.header{
+
+    height: 50px;
+    width: 100%;
+    
+}
+
+.navbar {
+
+    background-color: #000000;
+}
+
+.route {
+
+    margin-left: 500px;
+}
+
+.routeLink {
+
+    color: #61892F;
+    font-weight: 700;
+}
+
+.logo {
+
+    height: 50px;
+    width: 60px;
+    margin-left: 10px;
+
+}
+
+#basic-nav-dropdown.dropdown-toggle {
+
+    color: #85756A !important;
+    font-weight: bold;
+}
+
+.navmenu {
+
+    margin-left: 540px;
+}
+

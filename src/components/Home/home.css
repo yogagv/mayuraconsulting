@@ -1,0 +1,16 @@
+.subscribe-button {
+    background-color: #85756A; /* Orange button */
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 10px 20px;
+    cursor: pointer;
+    height: 60px;
+    font-size: 16px;
+    outline: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #85756A; /* Darker orange on hover */
+  }

@@ -1,0 +1,36 @@
+.aboutus {
+
+    background-color: black;
+    height: 600px;
+}
+
+.work {
+
+    margin-top: 130px;
+}
+
+h1 {
+
+    color: #857563;
+    font-weight: bold;
+}
+
+.workone {
+
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 1px 1px #857563;
+    padding: 5px;
+    
+}
+
+.circle-img {
+
+    color: white;
+    background-color: #857563;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+

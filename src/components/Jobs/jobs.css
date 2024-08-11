@@ -1,0 +1,36 @@
+.jobs {
+
+    background: black;
+    height: 620px;
+    background: url('../../assets/images/bgimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(40%);
+
+}
+
+h2 {
+
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff; 
+    font-weight: bolder; 
+    font-size: 50px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    
+}
+
+button {
+
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #000;
+    color: #ffffff;
+    background-color: #85756A;
+    font-size: 30px;
+    width: 120px; 
+}

@@ -1,0 +1,43 @@
+.card_four {
+
+    background: url('../../assets/images/service_four.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(55%);
+
+}
+
+.card_three {
+
+    background: url('../../assets/images/strategy.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(55%);
+
+}
+
+.card_two {
+
+    background: url('../../assets/images/consulting.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(55%);
+
+}
+
+.card_one {
+
+    background: url('../../assets/images/recruitment.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(55%);
+
+}
+
+.text {
+
+    font-weight: bold;
+    filter: brightness(1.2);
+    font-size: 30px;
+    ;
+}
