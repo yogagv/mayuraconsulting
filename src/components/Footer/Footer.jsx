@@ -54,7 +54,7 @@ const Footer = () => {
       <h4 className='text-light'> Contact</h4>
       <h6 className='mt-4  text-light'>
         <span className='contact'><FaMapMarkerAlt color='white'/>  </span>   
-         Address: <span className='text-light fw-medium'>Guindy, Tamilnadu</span>
+         Address: <span className='text-light fw-medium'>Cheyyar, Tamilnadu</span>
       </h6>
       <h6 className='mt-4  text-light'>
       <span className='contact'><MdEmail color='white'/>  </span>   
