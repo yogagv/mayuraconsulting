@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import amaron from '../../assets/images/1920X470_AmaronLogo.jpg'
+import amaron from '../../assets/images/amaronbattery.png'
 import sun from '../../assets/images/sun.jpg';
 import swing from '../../assets/images/swing.png'
 import grasim from '../../assets/images/grasim.jpg'
