@@ -1,5 +1,5 @@
 import React from 'react'
-import newsletter from '../../assets/images/newsletter.png'
+import newsletter from '../../assets/images/hero-two.png'
 import './newsletter.css'
 
 const Newsletter = () => {
@@ -16,7 +16,7 @@ const Newsletter = () => {
                 exclusive content, and updates on our services to help you navigate the ever-evolving business landscape. </p>
           </div>
           <div className="col-md-6 mt-3">
-              <img src={newsletter} alt="newsletter" className='h-100 w-100'/>
+              <img src={newsletter} alt="newsletter" className='newsletter'/>
           </div>
         </div>
       </div>

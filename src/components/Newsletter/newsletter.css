@@ -5,8 +5,8 @@
     border-radius: 0 5px 5px 0;
     padding: 10px 20px;
     cursor: pointer;
-    height: 59px;
-    margin-top: 3053px;
+    height: 62px;
+    margin-top: 3102px;
     left: 34%;
     font-size: 16px;
     outline: none;
@@ -22,3 +22,15 @@
     height: 60px;
     width: 350px;
   }
+
+  .newsletter {
+
+    height: 430px;
+    width: 406px;
+    border: 1px solid #85756A;
+    border-radius: 10px;
+
+  }
+
+
+

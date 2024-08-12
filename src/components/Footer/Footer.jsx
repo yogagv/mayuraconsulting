@@ -47,7 +47,7 @@ const Footer = () => {
       <Link to="/signin" className='text-decoration-none  fw-medium mt-5' style={{color:"#85756A"}}>Closed Openings</Link>
       </h6>
       <h6 className='mt-4'>
-      <Link to="/register" className='text-decoration-none  fw-medium mt-5' style={{color:"#85756A"}}>Testimonials</Link>
+      <Link to="/testimonials" className='text-decoration-none  fw-medium mt-5' style={{color:"#85756A"}}>Testimonials</Link>
       </h6>
       </div>
       <div className="col-md-3 mt-5">

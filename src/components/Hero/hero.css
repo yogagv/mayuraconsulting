@@ -12,7 +12,25 @@
     -webkit-filter: blur(1px);
 }
 
+.hero-one {
+
+  border: 1px solid #85756A;
+  border-radius: 10px;
+  height: 500px;
+  width: 400px;
+}
+
+.hero-two {
+
+  border: 1px solid #85756A;
+  border-radius: 10px;
+  margin-left: 700px;
+  height: 450px;
+  width: 400px;
+} */
+
 .image-container {
+
     position: relative;
     display: inline-block;
     
@@ -30,7 +48,7 @@
     font-size: 52px;
     border-radius: 5px;
     z-index: 5;
-  }
+  } */
   
   .overlay-text-two {
 

@@ -14,7 +14,7 @@ const Openings = () => {
         <div className="container">
             <div className="row">
                 <div className="col-md-3">
-    <Card style={{ width: '20rem', height: '25rem' }} className='mt-5'>
+    <Card style={{ width: '18rem', height: '28rem' }} className='mt-5 card'>
       <Card.Img variant="top" src={amaron} className='h-25 w-100' />
       <Card.Body style={{backgroundColor:"#000", color:"#ffff"}}>
         <Card.Title>Amaron Battries Industries Ltd.</Card.Title>
@@ -31,7 +31,7 @@ const Openings = () => {
     </Card>
                 </div>
                 <div className="col-md-3">
-                <Card style={{ width: '20rem', height: '25rem' }} className='mt-5'>
+                <Card style={{ width: '18rem', height: '28rem' }} className='mt-5'>
       <Card.Img variant="top" src={sunp} className='h-25 w-100' />
       <Card.Body style={{backgroundColor:"#000", color:"#ffff"}}>
         <Card.Title>Sun Pharma Industries Limited</Card.Title>
@@ -48,7 +48,7 @@ const Openings = () => {
     </Card>
     </div>
     <div className="col-md-3">
-                <Card style={{ width: '20rem', height: '25rem' }} className='mt-5'>
+      <Card style={{ width: '18rem', height: '28rem' }} className='mt-5'>
       <Card.Img variant="top" src={swing} className='h-25 w-100' />
       <Card.Body style={{backgroundColor:"#000", color:"#ffff"}}>
         <Card.Title>Schwing stetter</Card.Title>
@@ -65,7 +65,7 @@ const Openings = () => {
     </Card>
     </div>
     <div className="col-md-3">
-      <Card style={{ width: '20rem', height: '25rem' }} className='mt-5'>
+      <Card style={{ width: '18rem', height: '28rem' }} className='mt-5'>
       <Card.Img variant="top" src={grasim} className='h-25 w-100' />
       <Card.Body style={{backgroundColor:"#000", color:"#ffff"}}>
         <Card.Title>L&T Grasim Industries</Card.Title>
