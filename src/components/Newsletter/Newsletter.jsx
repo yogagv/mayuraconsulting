@@ -13,7 +13,7 @@ const Newsletter = () => {
               <button className="subscribe-button">Subscribe</button>
               <p className='mt-4 text-light'>Welcome to our newsletter section! where we share the latest industry insights, trends, 
                 and best practices. Our newsletter is packed with expert advice, 
-                exclusive content, and updates on our services to help you navigate the ever-evolving business landscape. </p>
+                exclusive content, and updates on our services to help you navigate. </p>
           </div>
           <div className="col-md-6 mt-3">
               <img src={newsletter} alt="newsletter" className='newsletter'/>
