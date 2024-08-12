@@ -16,7 +16,7 @@ const Hero = () => {
                 <div className="image-container mt-5">
                     <img src={heroone}
                       className="hero-one mt-3" alt="" />
-                <h1 className='overlay-text'>Empowering Your Workforce Needs Connecting Talent with Opportunity
+                <h1 className='overlay-text'>Empowering Your Workforce Needs, Connecting Talent with Opportunity.
             </h1>
                 </div>
             </div>
